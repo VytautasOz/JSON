@@ -1,0 +1,13 @@
+[ {
+  "Vardas" : "Vytas",
+  "Amžius" : 50,
+  "Elektroninio pašsto adresas" : "vytas@gmail.com"
+}, {
+  "Vardas" : "Egle",
+  "Amžius" : 40,
+  "Elektroninio pašsto adresas" : "egle@gmail.com"
+}, {
+  "Vardas" : "Jonas",
+  "Amžius" : 20,
+  "Elektroninio pašsto adresas" : "jonas@gmail.com"
+} ]

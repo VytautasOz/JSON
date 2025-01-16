@@ -1,8 +1,13 @@
 package org.example;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Person {
+    @JsonProperty("Vardas")
     private String name;
+    @JsonProperty("Amžius")
     private int age;
+    @JsonProperty("Elektroninio pašsto adresas")
     private String email;
 
     public Person(String name, int age, String email) {
